@@ -1,0 +1,39 @@
+html, body {
+  width: 100%;
+  margin: 0;
+  color: #8b8b8b;
+  font-size: .95em;
+}
+
+img {
+  display: inline-block;
+  max-width: 100%;
+}
+
+p {
+  max-width: 960px;
+}
+
+div {
+  max-width: 960px;
+  margin: 10px auto;
+}
+
+h2 {
+  font-size: 1.3em;
+  color: #656565;
+}
+
+h3 {
+  font-size: .8em;
+}
+
+a {
+  text-decoration: none;
+  color: #569fcf;
+}
+
+footer img {
+  border: 5px solid #cccccc;
+  padding: 1px;
+}
