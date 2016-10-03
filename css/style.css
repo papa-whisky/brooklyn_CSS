@@ -1,6 +1,6 @@
-html, body {
-  width: 100%;
-  margin: 0;
+body {
+  max-width: 960px;
+  margin: 10px auto;
   color: #8b8b8b;
   font-size: .95em;
 }
@@ -8,11 +8,6 @@ html, body {
 img {
   display: inline-block;
   max-width: 100%;
-}
-
-div {
-  max-width: 960px;
-  margin: 10px auto;
 }
 
 h2 {
